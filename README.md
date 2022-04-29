@@ -1,6 +1,7 @@
 ### Hi there 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TFDevCycle&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Langages](https://github-readme-stats.vercel.app/api/top-langs?username=TFDevCycle&hide_border=true&bg_color=0d1117&title_color=3896ff&text_color=c9d1d9&custom_title=Languages:&langs_count=10&layout=compact&card_width=445&exclude_repo=LaTeX-Template-DHBW-PA)](https://github-readme-stats.vercel.app/api/top-langs?username=Proliecan&hide_border=true&bg_color=0d1117&title_color=3896ff&text_color=c9d1d9&custom_title=Languages:&langs_count=10&layout=compact&card_width=445&exclude_repo=LaTeX-Template-DHBW-PA)
 <!--
 **TFDevCycle/TFDevCycle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
